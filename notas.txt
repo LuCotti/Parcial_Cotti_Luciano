@@ -1,0 +1,10 @@
+El archivo main tiene dos secciones:
+	• Consigna (copiado textual desde el archivo .docx)
+	• Resolución
+
+La resolución la hice punto por punto, inicializando e importando a medida que se lo requiere
+
+Las funciones que no llegué a modularizar antes del examen las volví a escribir en el momento, razón por la cual el archivo main.py es tan extenso.
+
+El programa muestra el menú mediante un bucle while, ingresando la cantidad de datos que el usuario necesite. Para salir de dicho bucle, se añadió una sexta opción al menú.
+
